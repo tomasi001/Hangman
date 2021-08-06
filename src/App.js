@@ -9,7 +9,37 @@ import Popup from "./components/Popup";
 import Help from "./components/Help";
 import { showNotification as show } from "./helpers/helpers";
 
-const words = ["application", "programming", "interface", "wizard"];
+// define array of words for app to choose from
+const words = [
+  "application",
+  "programming",
+  "interface",
+  "wizard",
+  "baby",
+  "pick",
+  "nail",
+  "nonstop",
+  "turkey",
+  "wrench",
+  "bath",
+  "stay",
+  "lively",
+  "super",
+  "year",
+  "smart",
+  "strange",
+  "polite",
+  "spotless",
+  "vulgar",
+  "young",
+  "heavenly",
+  "alike",
+  "gullible",
+  "harsh",
+  "demonic",
+  "symptomatic",
+  "thundering",
+];
 
 let selectedWord = words[Math.floor(Math.random() * words.length)];
 
