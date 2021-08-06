@@ -17,7 +17,8 @@ and follow the instructions to create a new project from the command line interf
 6. once the app has been created download the contents of this github repository
 7. replace all folders in the newly created app except for the node_modules
 8. make sure all the files downloaded are present in the Hangman directory.
-9. type in 'npm start'
+9. open your terminal and make sure you are in the Hangman directory
+10. type in 'npm start'
 
 ## Et Voila! The app should be running on your localhost:3000
 
