@@ -11,10 +11,13 @@
 To play this game all you have to do is:
 
 1. create a directory called Hangman
-2. download the contents of this github repository
-3. make sure all the files downloaded are present in the Hangman directory.
-4. open your terminal and navigate to the Hangman directory
-5. type in 'npm start'
+2. open your terminal and navigate to the Hangman directory
+3. Go to this [link](https://github.com/facebook/create-react-app#create-react-app--). 
+and follow the instructions to create a new project from the command line interface
+6. once the app has been created download the contents of this github repository
+7. replace all folders in the newly created app except for the node_modules
+8. make sure all the files downloaded are present in the Hangman directory.
+9. type in 'npm start'
 
 ## Et Voila! The app should be running on your localhost:3000
 
