@@ -1,11 +1,3 @@
-# Firstly a huge shout out to Traversy Media and CodeSTACKr
-
-# For the awesome tutorial on how to create a Hangman App
-
-# Go check them out on YouTube if you need help with React!
-
-### https://www.youtube.com/watch?v=jj0W8tYX_q8&ab_channel=TraversyMedia here is the link to the video
-
 # Hello and Welcome to Hangman!
 
 To play this game all you have to do is:
@@ -35,6 +27,8 @@ the word in six turns you lose!
 Good Luck
 
 # CREDITS
+
+Huge shout out to Traversy Media and CodeSTACKR
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
