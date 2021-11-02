@@ -1,6 +1,7 @@
 # Hello and Welcome to Hangman!
 
 To play this game all you have to do is:
+Click [Here](https://powerful-lake-85980.herokuapp.com/)
 
 1. create a directory called Hangman
 2. open your terminal and navigate to the Hangman directory
